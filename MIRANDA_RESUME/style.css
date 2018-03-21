@@ -1,0 +1,55 @@
+h1 {
+  font-family: impact;
+  letter-spacing: 9px;
+  font-size: 60px;
+  line-height: 15px;
+}
+
+h3 {
+  font-family: impact;
+  margin-top: 55px;
+  letter-spacing: 15px;
+  font-size: 37px;
+  line-height: 1;
+}
+
+h5 {
+  font-family: arial;
+  margin-top: 15px;
+  margin-bottom: 2px;
+  letter-spacing: 3.5px;
+  font-size: 12px;
+  line-height: 2;
+}
+
+body {
+  background-color:#d6b7da;
+  color: #3760b7;
+  font-family: arial;
+}
+
+p {
+  font-family: impact;
+  letter-spacing: 3px;
+  margin-top:65px;
+  font-size: 24px;
+  line-height: 1;
+}
+
+p1 {
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 12px;
+  line-height: 2;
+}
+
+li {
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 12px;
+  line-height: 2;
+}
+
+a {
+  color: #3760b7;
+}
