@@ -123,10 +123,10 @@ footer {
   font-size: 48px;
 }
 
-footer ul li {
+footer li {
   display: inline-block;
   list-style: none;
-  margin: 0 26px 75px;
+  margin: 0px 50px 75px 0px;
 }
 
 footer p {
