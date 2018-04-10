@@ -1,0 +1,45 @@
+body {
+  margin: 3em;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h1 {
+  line-height: 1.25;
+  margin: 20px 0 30px 26px;
+}
+
+#rock-button {
+  background: red;
+  border: 2px solid black;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-radius: 30px;
+}
+
+#paper-button {
+  background: orange;
+  border: 2px solid black;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-radius: 30px;
+}
+
+#scissors-button {
+  background: yellow;
+  border: 2px solid black;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-radius: 30px;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  cursor: pointer;
+}
